@@ -2,7 +2,7 @@
 
 ## Sou desenvolvedor fullstack!!
 - 👨‍💻 Pronome: Ele/Dele 
-- 🎓 Estou terminando a graduação de Ciência da Computação.
+- 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
 - 💻 Eterno aprendiz das tecnologias.
 - 🥰 Eu amo cachorros 🐕
 - 💬 Pergunte-me sobre qualquer coisa
