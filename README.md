@@ -1,4 +1,3 @@
-### Eai galera! Eu sou o Ben 👋
+### Fala galera! Sou o Ben 👋
 
 ## Sou desenvolvedor fullstack!!
-
