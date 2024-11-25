@@ -1,8 +1,8 @@
 ### Fala galera! Sou o Ben 👋
 
-## Sou desenvolvedor fullstack!!
+## Sou um cientista da computação!!
 - 👨‍💻 Pronome: Ele/Dele 
-- 🎓 Estou terminando a graduação em Ciência da Computação na UFG.
+- 🎓 Ciência da Computação na UFG.
 - 💻 Eterno aprendiz das tecnologias.
 - 🥰 Eu amo cachorros 🐕
 - 💬 Pergunte-me sobre qualquer coisa
