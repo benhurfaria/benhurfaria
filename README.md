@@ -1,6 +1,6 @@
 ### Fala galera! Sou o Ben 👋
 
-## Sou um engenheiro de dados!!
+## Sou um Desenvolvedor!!
 - 👨‍💻 Pronome: Ele/Dele 
 - 🎓 Ciência da Computação na UFG.
 - 💻 Eterno aprendiz das tecnologias.
